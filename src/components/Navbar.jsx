@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        DataAnalytics Dashboard
+        DataAnalytics Dashboardhhhhh
       </div>
 
       <div className="navbar-links">
